@@ -6,8 +6,7 @@
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueSouzaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMcbGPGwNC_BJH4wfxum-WzsIm6chmmUG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br>
 <a href="https://www.instagram.com/caique_xix/">
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" alt="Instagram" width="30" height="30"</a></img>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMcbGPGwNC_BJH4wfxum-WzsIm6chmmUG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  </iframe>
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" alt="Instagram" width="30" height="30"</a>
